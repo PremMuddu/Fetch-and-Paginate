@@ -1,0 +1,29 @@
+h1 {
+  background-color: ;
+    font-weight: bolder;
+    font-size: 5em;
+    width: 100%;
+    text-align: center;
+  }
+
+  body {
+    background-color:lightsteelblue;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+    flex-wrap:wrap;
+    padding: 1em 1em;
+  }
+  .list-group-item {
+   border: 10px solid;
+   font-weight: bold;
+   border-radius: 10px;
+   width:auto;
+   display: flex;
+   font-size: x-large;
+   padding: rem 10em;
+   justify-content:center;
+   white-space: nowrap;
+   }
